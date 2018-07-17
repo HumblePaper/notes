@@ -4,4 +4,4 @@ This is my store of stories I write for Paper.vc on financial and business devel
 
 ### Stories
 
-[India theatre update to Walt Disney Comcast Battle](https://humblepaper.github.io/notes/WaltDisney-21CenturyFox-Merger-India.md)
+[India theatre update to Walt Disney Comcast Battle](https://humblepaper.github.io/notes/WaltDisney-21CenturyFox-Merger-India)
